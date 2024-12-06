@@ -1,42 +1,33 @@
-
 #### Ici le labo :
-* ### `` 
-   * ##### enp0s3 inet static
-#### => IPv4
-#####    address 
-#####    netmask 
-#### => IPv6
-   * ##### enp0s3 inet6 static
-#####    address 
-* ### `` 
-#### => IPv4
-   * ##### enp0s3 inet static
-#####    address 
-#####    netmask 
-#### => IPv6
-   * ##### enp0s3 inet6 static
-##### address 
-* ### ``
-#### => IPv4   
-   * ##### enp0s3 inet static
----
-   #####   address 
-   #####   netmask 
----
-   * ##### enp0s8 inet static
-   #####   address 
-   #####    netmask 
----
-   * ##### enp0s9 inet dhcp
-#### => IPv6 
-   * ##### enp0s3 inet6 static
-#####    address 
-  * ##### iface enp0s8 inet6 static
-##### address
-   * ##### iface enp0s9 inet6 auto
+* 1️⃣ ### `` 
+|Interface|IPv4|IPv6|
+|:-:|:-:|:-:|
+|enp0s3 |||
+* 2️⃣ ### `` 
+|Interface|IPv4|IPv6|
+|:-:|:-:|:-:|
+|enp0s3 |||
+* 3️⃣ ### ``
+|Interface|IPv4|IPv6|
+|:-:|:-:|:-:|
+|enp0s3 |||
+|enp0s8|||
+|enp0s9|||
+
+
+|Interface|IPv4|IPv6|
+|:-:|:-:|:-:|
+|enp0s3 |10.0.0.10/24|fd44:1571:cc8b::11/64|
 
 
 
+
+
+
+
+
+|Type|Cible|Tâche|Etat|
+|:-:|:-:|:-:|:-:|
 
 
 
