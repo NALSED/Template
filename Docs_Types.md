@@ -15,15 +15,13 @@
 
 
 ---
----
 
-## 1️⃣ ``
 
 
 <details>
 <summary>
 <h2>
-:arrow_forward: Les différents types de RAID.  
+ 
 </h2>
 </summary>
 blabla
@@ -32,13 +30,13 @@ blabla
 
 ---
 
-## 2️⃣ ``
+
 
 
 <details>
 <summary>
 <h2>
-:arrow_forward: Les différents types de RAID.  
+
 </h2>
 </summary>
 blabla
@@ -47,13 +45,12 @@ blabla
 
 ---
 
-## 3️⃣ ``
 
 
 <details>
 <summary>
 <h2>
-:arrow_forward: Les différents types de RAID.  
+
 </h2>
 </summary>
 blabla
@@ -62,13 +59,13 @@ blabla
 
 ---
 
-## 4️⃣ ``
+
 
 
 <details>
 <summary>
 <h2>
-:arrow_forward: Les différents types de RAID.  
+
 </h2>
 </summary>
 blabla
@@ -77,13 +74,13 @@ blabla
 
 ---
 
-## 5️⃣ ``
+
 
 
 <details>
 <summary>
 <h2>
-:arrow_forward: Les différents types de RAID.  
+ 
 </h2>
 </summary>
 blabla
@@ -92,13 +89,12 @@ blabla
 
 ---
 
-## 6️⃣ ``
 
 
 <details>
 <summary>
 <h2>
-:arrow_forward: Les différents types de RAID.  
+  
 </h2>
 </summary>
 blabla
@@ -107,13 +103,13 @@ blabla
 
 ---
 
-## 7️⃣ ``
+
 
 
 <details>
 <summary>
 <h2>
-:arrow_forward: Les différents types de RAID.  
+
 </h2>
 </summary>
 blabla
@@ -122,13 +118,12 @@ blabla
 
 ---
 
-## 8️⃣ ``
 
 
 <details>
 <summary>
 <h2>
-:arrow_forward: Les différents types de RAID.  
+
 </h2>
 </summary>
 blabla
@@ -137,12 +132,12 @@ blabla
 
 ---
 
-## 9️⃣ ``
+
 
 <details>
 <summary>
 <h2>
-:arrow_forward: Les différents types de RAID.  
+  
 </h2>
 </summary>
 blabla
