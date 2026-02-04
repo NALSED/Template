@@ -1,10 +1,10 @@
 <details> 
-<summary style="display: flex; flex-direction: row-reverse;"> 
-<h2> 
-  ff
+<summary style="direction: rtl;"> 
+<h2 style="direction: ltr;"> 
+ ddd 
 </h2> 
 </summary> 
  
- 
+ dd
  
 </details>
