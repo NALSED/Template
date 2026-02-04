@@ -1,10 +1,10 @@
-<details open> 
-<summary> 
+<details> 
+<summary style="text-align: right;"> 
 <h2> 
-  ets
+  test
 </h2> 
 </summary> 
-  test
  
+ test
  
 </details>
