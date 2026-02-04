@@ -1,7 +1,7 @@
 <details> 
-<summary style="direction: rtl;"> 
-<h2 style="direction: ltr;"> 
- ddd 
+<summary style="text-align: right;"> 
+<h2 style="display: inline;"> 
+  ddd
 </h2> 
 </summary> 
  
