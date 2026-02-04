@@ -1,10 +1,10 @@
 <details> 
-<summary style="text-align: right;"> 
+<summary style="display: flex; flex-direction: row-reverse;"> 
 <h2> 
-  test
+  ff
 </h2> 
 </summary> 
  
- test
+ 
  
 </details>
