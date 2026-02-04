@@ -1,10 +1,10 @@
 <details> 
-<summary style="text-align: right;"> 
-<h2 style="display: inline;"> 
+<summary> 
+<h2 style="text-align: right;"> 
   ddd
 </h2> 
 </summary> 
  
- dd
+ 
  
 </details>
